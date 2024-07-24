@@ -26,3 +26,9 @@ mkdir utils
 Then create whatever test files you'd like and utility functions.
 
 You can create tests anywhere in your project structure. As long as they end in `test.js` or `test.ts` the `pnpn test` will find them.
+
+## Run the tests
+
+```bash
+pnpm test
+```
