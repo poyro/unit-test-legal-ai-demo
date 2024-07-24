@@ -1,5 +1,6 @@
 # unit-test-legal-ai-demo
-Demo code for article: https://docs.poyro.dev/essays/unit-testing-a-legal-ai-app
+
+Demo code for article on using [Poyro](https://github.com/poyro/poyro) to [test a legal AI app](https://docs.poyro.dev/essays/unit-testing-a-legal-ai-app).
 
 # Replicate from scratch
 
