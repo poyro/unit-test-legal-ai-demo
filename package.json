@@ -1,0 +1,16 @@
+{
+  "name": "unit-test-legal-ai-demo",
+  "version": "1.0.0",
+  "description": "Demo code for article: https://docs.poyro.dev/essays/unit-testing-a-legal-ai-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@poyro/vitest": "^0.6.6",
+    "vitest": "^2.0.4"
+  }
+}
